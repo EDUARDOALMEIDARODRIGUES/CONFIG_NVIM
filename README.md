@@ -4,5 +4,5 @@
 <h1>como posso clonar no meu computador ?</h1>
 
 ```
-git clone
+git clone https://github.com/EDUARDOALMEIDARODRIGUES/CONFIG_NVIM ~LUGAR QUE QUISER/
 ```
